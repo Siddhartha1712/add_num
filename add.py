@@ -8,4 +8,4 @@ def sub_two(a,b):
     return a-b
  
 print("Result of a+b :",add_two(a,b))
-print("Result of a+b :",sub_two(a,b))
+print("Result of a-b :",sub_two(a,b))
